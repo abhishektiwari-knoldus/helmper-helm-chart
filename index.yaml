@@ -3,9 +3,19 @@ entries:
   helmper-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-17T17:39:48.699805407+05:30"
+    created: "2025-02-17T23:06:50.485596944+05:30"
     description: A Helm chart for Kubernetes
-    digest: bf8ac450576751668587ce68c7f8f2280a40bf82e63bd1bfa721579542d73f0d
+    digest: bd427b331140c8b9de19dc1aa1a78f37a0b824813b317789577adfb3f168246a
+    name: helmper-chart
+    type: application
+    urls:
+    - https://abhishektiwari-knoldus.github.io/helmper-helm-chart/helmper-chart-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-17T23:06:50.484802618+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 7f3104de82d754cc2ce28cdc4faf984d3e0e0ab2f1fe43fc017e183656801c19
     name: helmper-chart
     type: application
     urls:
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-17T17:39:48.69926473+05:30"
+    created: "2025-02-17T23:06:50.48412876+05:30"
     description: A Helm chart for Kubernetes
     digest: d2f439bf2221dafc3b421f83e548d37f41f90ee13677da4a8d2684cf215cb77b
     name: helmper-chart
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://abhishektiwari-knoldus.github.io/helmper-helm-chart/helmper-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-17T17:39:48.698685617+05:30"
+generated: "2025-02-17T23:06:50.483315532+05:30"
