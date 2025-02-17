@@ -1,5 +1,0 @@
-charts/*
-templates/*
-Chart.yaml
-values.yaml
-.helmignore
